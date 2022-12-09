@@ -2,7 +2,7 @@
 Hi, I'm a student studying Infromation engineering. 
 
 ### 🌱 my skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=androidstudio,kotlin,gradle,figma,python,html,css," />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=androidstudio,kotlin,gradle,figma,python,html,css," />
 
 
 ## 📈 Status
@@ -13,7 +13,7 @@ Hi, I'm a student studying Infromation engineering.
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=guppe&show_icons=true&theme=merko" />
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=guppe&margin-w=5)](https://github.com/guppe/)
+[![trophy](https://github-profile-trophy.vercel.app/?username=guppe&margin-w=5&theme=gruvbox)](https://github.com/guppe/)
 
 ## 📨 Contact me.
 
