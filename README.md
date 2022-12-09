@@ -1,16 +1,20 @@
-### Hi there 👋
+## 🐻 About Guppe
+Hi, I'm a student studying Infromation engineering. 
 
-<!--
-**guppe/guppe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 my skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=8&i=androidstudio,kotlin,gradle,figma,python,html,css," />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Status
+[![My Twitter Followers](https://badgen.net/twitter/follow/guppe_obi_114)](https://twitter.com/guppe_obi_114)
+
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guppe&layout=compact&theme=merko" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=guppe&show_icons=true&theme=merko" />
+</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=guppe&margin-w=5)](https://github.com/guppe/)
+
+## 📨 Contact me.
+
+**[Twitter - @guppe_obi_114](https://twitter.com/guppe_obi_114)**
