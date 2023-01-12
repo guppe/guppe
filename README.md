@@ -6,12 +6,10 @@ Hi, I'm a student studying Infromation engineering.
 
 
 ## 📈 Status
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guppe&layout=compact&theme=merko" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=guppe&show_icons=true&theme=merko" />
-</p>
+![GitHub Stats Card](https://github-readme-stats-tau-mauve.vercel.app/api?username=guppe&count_private=true&show_icons=true&theme=merko)
+![Top Languages Card (Compact layout)](https://github-readme-stats-tau-mauve.vercel.app/api/top-langs/?username=guppe&layout=compact&count_private=true&theme=merko)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=guppe&margin-w=5&theme=gruvbox)](https://github.com/guppe/)
+[![trophy](https://github-profile-trophy-five.vercel.app/?username=guppe&theme=onedark&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 📨 Contact me.
 
