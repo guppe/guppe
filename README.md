@@ -2,7 +2,7 @@
 Hi, I'm a student studying Infromation engineering. 
 
 ### 🌱 my skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=androidstudio,kotlin,gradle,figma,python,ruby,html,css,c" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=8&i=androidstudio,kotlin,gradle,figma,python,ruby,html,css," />
 
 
 ## 📈 Status
